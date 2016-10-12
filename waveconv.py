@@ -1,7 +1,7 @@
 from astropy.io import fits
-
+# convert the wavelenght from nm to angstrons in a fits file
 dir=''
-inputfiles=['','']
+inputfiles=['betGem','epsVir']
 n=len(inputfiles)
 dirout=''
 
