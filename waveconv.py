@@ -1,7 +1,7 @@
 from astropy.io import fits
 
 dir=''
-inputfiles=['/home/aferreira/Dropbox/Doutorado/Dados/Spectra/conv/iraf_HARPS.GBOG_betGem_860']
+inputfiles=['','']
 n=len(inputfiles)
 dirout=''
 
